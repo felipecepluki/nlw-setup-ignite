@@ -7,10 +7,21 @@
 - [NLW SETUP - IGNITE](#nlw-setup---ignite)
 - [Contents](#contents)
 - [About](#about)
+    - [This is the first NLW of the year in the road Ignite](#this-is-the-first-nlw-of-the-year-in-the-road-ignite)
 - [Installation](#installation)
+    - [Pre-requisites](#pre-requisites)
+    - [Run this project](#run-this-project)
+      - [Clone this repository](#clone-this-repository)
 - [Technologies](#technologies)
 # About
 ### This is the first NLW of the year in the road Ignite
+
+- [ x ]  Aula 01 - Iniciando o projeto de ponta a ponta
+- [ x ]  Aula 02 - Avançando o back-end e Front-end 
+- [   ]  Aula 03 - Finalizando o layout web e mobile
+- [   ]  Aula 04 - Conectando a API
+- [   ]  Aula 05 - O próximo nível
+
 &nbsp;
 # Installation
 ### Pre-requisites
