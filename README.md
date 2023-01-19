@@ -18,7 +18,7 @@
 
 - [ x ]  Aula 01 - Iniciando o projeto de ponta a ponta
 - [ x ]  Aula 02 - Avançando o back-end e Front-end 
-- [   ]  Aula 03 - Finalizando o layout web e mobile
+- [ x ]  Aula 03 - Finalizando o layout web e mobile
 - [   ]  Aula 04 - Conectando a API
 - [   ]  Aula 05 - O próximo nível
 
@@ -40,5 +40,5 @@ The following tools were used in building the project:
 - [Fastify](https://www.fastify.io/)
 - [Vite](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [SQLite](https://www.sqlite.org/index.html)
