@@ -19,7 +19,7 @@
 - [ x ]  Aula 01 - Iniciando o projeto de ponta a ponta
 - [ x ]  Aula 02 - Avançando o back-end e Front-end 
 - [ x ]  Aula 03 - Finalizando o layout web e mobile
-- [   ]  Aula 04 - Conectando a API
+- [ x ]  Aula 04 - Conectando a API
 - [   ]  Aula 05 - O próximo nível
 
 &nbsp;

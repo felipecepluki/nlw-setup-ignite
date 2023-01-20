@@ -2,7 +2,7 @@ import { Plus, X } from "phosphor-react";
 import * as Dialog from "@radix-ui/react-dialog";
 import logoImage from "../assets/logo.svg";
 import { useState } from "react";
-import { NewHabiForm } from "./NewHabitForm";
+import { NewHabitForm } from "./NewHabitForm";
 
 export function Header() {
   // Imperativa vs Declarativa
@@ -28,7 +28,7 @@ export function Header() {
             <Dialog.Title className="text-3xl leading-tight font-extrabold">
               Criar Hábito
             </Dialog.Title>
-            <NewHabiForm />
+            <NewHabitForm />
           </Dialog.Content>
         </Dialog.Portal>
       </Dialog.Root>
