@@ -20,7 +20,7 @@
 - [ x ]  Aula 02 - Avançando o back-end e Front-end 
 - [ x ]  Aula 03 - Finalizando o layout web e mobile
 - [ x ]  Aula 04 - Conectando a API
-- [   ]  Aula 05 - O próximo nível
+- [ x ]  Aula 05 - O próximo nível
 
 &nbsp;
 # Installation
